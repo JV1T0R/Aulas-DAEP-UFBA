@@ -35,8 +35,6 @@ print(f"Média de produção por dia: {media:.2f}")
 ```
 </details>
 
-<br>  
-
 <hr>
 
 ### Questão 2
@@ -65,9 +63,7 @@ if busca in estoque:
 else:
     print("Peça não encontrada no estoque.")
 ```
-</details>
-
-<br>  
+</details>  
 
 <hr>
 
@@ -99,9 +95,7 @@ print(f"Maior produção: {maior}")
 print(f"Menor produção: {menor}")
 
 ```
-</details>
-
-<br>  
+</details>  
 
 <hr>
 
@@ -130,9 +124,7 @@ print("Registros coletados:")
 for idx, (t, p) in enumerate(registros, start=1):
     print(f"{idx} - Temperatura: {t}°C | Pressão: {p} Pa")
 ```
-</details>
-
-<br>  
+</details> 
 
 <hr>
 

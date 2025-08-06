@@ -27,9 +27,7 @@ elif peso <= 1000:
 else:
     print("Carga acima do limite permitido!")
 ```
-</details>
-
-<br>  
+</details> 
 
 <hr>
 
@@ -55,8 +53,6 @@ Elabore um programa que leia o **rendimento (%) de um motor** e classifique-o co
         print("Alta eficiência.") 
 ```
 </details>
-
-<br>
 
 <hr>
 
@@ -92,8 +88,6 @@ Uma linha de produção testa a resistência de peças. Desenvolva um programa q
 ```
 </details>
 
-<br>
-
 <hr>
 
 ### Questão 4 
@@ -127,8 +121,6 @@ Desenvolva um sistema para:
  
 ```
 </details>
-
-<br>
 
 <hr>
 

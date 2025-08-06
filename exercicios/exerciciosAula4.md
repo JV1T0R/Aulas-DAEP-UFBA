@@ -27,9 +27,7 @@ resultado = calcular_eficiencia(potencia_util, potencia_total)
 # Exibição do resultado formatado com 2 casas decimais
 print(f"A eficiência da máquina é de {resultado:.2f}%")
 ```
-</details>
-
-<br>  
+</details> 
 
 <hr>
 

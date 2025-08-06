@@ -27,8 +27,6 @@ Desenvolva um programa que:
 ```
 </details>
 
-<br>  
-
 <hr>
 
 ### Questão 2
@@ -52,8 +50,6 @@ Elabore um programa que:
     print(f"A área do retângulo é: {area}")
 ```
 </details>
-
-<br>
 
 <hr>
 
@@ -86,8 +82,6 @@ Crie um programa que:
 ```
 </details>
 
-<br>
-
 <hr>
 
 ### Questão 4
@@ -110,9 +104,7 @@ Desenvolva um conversor que:
     # Saída formatada
     print(f"A temperatura em Fahrenheit é: {fahrenheit:.2f} °F") # :.2f limita a 2 casas decimais
 ```
-</details>
-
-<br> 
+</details> 
 
 <hr>
 

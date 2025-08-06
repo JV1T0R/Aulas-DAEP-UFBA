@@ -49,7 +49,7 @@
 
 - **Conteúdos da Aula:**
   - [Instruções do Projeto](exercicios/projetoFinal.md)
-  - [Acesso ao Dataset do Projeto](https://www.kaggle.com/datasets/shreshthvashisht/    manufacturing-dataset/data)
+  - [Acesso ao Dataset do Projeto](https://www.kaggle.com/datasets/shreshthvashisht/manufacturing-dataset/data)
 </details>
 
 ## Conteúdos Complementares
