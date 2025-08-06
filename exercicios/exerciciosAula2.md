@@ -84,7 +84,6 @@ Uma linha de produção testa a resistência de peças. Desenvolva um programa q
     # Exibição do resultado
     print(f"Peças aprovadas: {aprovadas}")
     print(f"Peças reprovadas: {reprovadas}")
- 
 ```
 </details>
 
@@ -118,7 +117,6 @@ Desenvolva um sistema para:
 
     # Exibição do resultado
     print(f"A média das temperaturas é: {media:.2f} °C")
- 
 ```
 </details>
 

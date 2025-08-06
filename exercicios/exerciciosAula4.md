@@ -66,8 +66,6 @@ else:
 ```
 </details>
 
-<br>  
-
 <hr>
 
 ### Questão 3 
@@ -96,8 +94,6 @@ print(f"Total de peças produzidas: {total_produzidas}")
 print(f"Média de produção por registro: {media_producao:.2f}")
 ```
 </details>
-
-<br>  
 
 <hr>
 
@@ -134,9 +130,7 @@ display(produtos_com_defeito)
 print(f"\nQuantidade de registros com defeitos: {qtd_com_defeito}")
 print(f"Porcentagem de produtos com defeito: {porcentagem_defeitos:.2f}%")
 ```
-</details>
-
-<br>  
+</details>  
 
 <hr>
 

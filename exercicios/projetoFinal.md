@@ -1,10 +1,10 @@
-# Projeto Final – Curso Introdutório de Python para Engenheiros
+# Projeto Final
 
 ### Descrição do Projeto
 O projeto final tem como objetivo consolidar os conhecimentos adquiridos durante o curso
-por meio da análise de dados reais do setor industrial.  
+por meio da análise de dados reais do setor industrial.
 Os alunos trabalharão em equipes, utilizando o dataset **Manufacturing Dataset (Kaggle)** 
-para realizar diferentes análises aplicadas à engenharia de produção,  
+para realizar diferentes análises aplicadas à engenharia de produção,
 empregando Python e bibliotecas como **pandas** e **matplotlib**.
 
 ### Objetivo Geral
