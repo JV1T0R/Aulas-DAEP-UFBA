@@ -65,7 +65,7 @@
 <details>
 <summary><Strong>Ementa</Strong></summary>
 
-- [Exercícios](documentos/ementa.pdf)
+- [Ementa do Curso](documentos/ementa.pdf)
 </details>
 
 <details>
