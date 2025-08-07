@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="imagens/logoDAEP.jpeg" alt="Logo DAEP" width="200" height="200"/>
+  <img src="imagens/brasaoEPUFBA.jpeg" alt="Brasão da Escola Politécnica da UFBA" width="200" height="200"/>
+  <img src="imagens/BrasaoUFBA.jpeg" alt="Brasão de Armas da UFBA" width="200" height="200"/>
+</div>
+
+<br>
+
 # Curso Introdutório de Python para Engenheiros
 
 > ### Informações:  
@@ -57,7 +65,7 @@
 <details>
 <summary><Strong>Ementa</Strong></summary>
 
-- Ementa curso de extensão Python
+- [Exercícios](documentos/ementa.pdf)
 </details>
 
 <details>
