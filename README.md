@@ -1,6 +1,7 @@
 <div align="center">
   <img src="imagens/logoDAEP.jpeg" alt="Logo DAEP" width="200" height="200"/>
-  <img src="imagens/brasaoEPUFBA.jpeg" alt="Brasão da Escola Politécnica da UFBA" width="200" height="200"/>
+  <img src="imagens/brasaoEPUFBA.jpeg" alt="Brasão da Escola Politécnica da UFBA" width="200" height="200"
+  style="margin-right: 15px; margin-left: 15px;" />
   <img src="imagens/BrasaoUFBA.jpeg" alt="Brasão de Armas da UFBA" width="200" height="200"/>
 </div>
 

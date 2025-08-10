@@ -37,10 +37,20 @@ Cada equipe receberá, por sorteio, um dos temas abaixo para desenvolver sua an�
 5. **Condições Ambientais:** estudo da influência da temperatura e umidade sobre a qualidade e o volume produzido.
 
 ### Requisitos do Projeto
-- O código deverá ser desenvolvido utilizando a linguagem **Python**, fazendo uso das bibliotecas **Pandas** e **Matplotlib**.
-- É permitida a utilização de bibliotecas adicionais, desde que devidamente justificadas no projeto.
-- A análise de dados deve incluir pelo menos uma representação visual gráfica, gerada preferencialmente
-  com a biblioteca **Matplotlib**.
-- O código deve ser bem estruturado, comentado e legível, facilitando sua compreensão por terceiros.
-- Além da apresentação, cada equipe deverá fornecer o link para um repositório público no **GitHub**,  
-  contendo todo o código do projeto, devidamente organizado e versionado.
+- O código deverá ser desenvolvido em **Python**, utilizando obrigatoriamente as bibliotecas **Pandas** e **Matplotlib**.  
+- É permitida a utilização de bibliotecas adicionais, desde que a escolha seja devidamente justificada no projeto.  
+- A análise de dados deve incluir pelo menos **uma representação visual** gerada preferencialmente com a biblioteca **Matplotlib**.  
+- O código deve ser bem estruturado, comentado e legível, facilitando a compreensão por terceiros.  
+- Durante a apresentação, o código deverá ser executado e demonstrado em funcionamento.  
+- Além da apresentação, cada equipe deverá fornecer o link para um repositório público no **GitHub**, contendo todo o código do       projeto, devidamente organizado e versionado.
+
+### Avaliação
+A nota do projeto será distribuída da seguinte forma:
+
+| Critério     | Peso |
+|--------------|------|
+| Código       | 50%  |
+| Apresentação | 30%  |
+| Documentação | 20%  |
+
+> **Observação:** Apesar de o projeto ser realizado em equipe, será avaliada também a contribuição individual de cada participante.
