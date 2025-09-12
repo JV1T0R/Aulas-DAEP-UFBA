@@ -25,7 +25,7 @@
 <summary><Strong>Aula 1 - Fundamentos e ambiente de desenvolvimento</Strong></summary>
 
 - **Conteúdos da Aula:**
-  - Slides
+  - [Slide](slides/Slide_Aula%20_1.pdf)
   - [Exercícios](exercicios/exerciciosAula1.md)
 </details>
 
@@ -66,7 +66,7 @@
 <details>
 <summary><Strong>Ementa</Strong></summary>
 
-- [Ementa do Curso](documentos/ementa.pdf)
+- [Ementa do Curso](documentos/Ementa_Curso_de_Extensão_Python_para_Engenheiros.pdf)
 </details>
 
 <details>
