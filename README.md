@@ -33,7 +33,7 @@
 <summary><Strong>Aula 2 - Primeiros passos com a linguagem</Strong></summary>
 
 - **Conteúdos da Aula:**
-  - Slides
+  - Slide
   - [Exercícios](exercicios/exerciciosAula2.md)
 </details>
 
@@ -41,7 +41,7 @@
 <summary><Strong>Aula 3 - Estruturas de dados, manipulação de informações, introdução a bibliotecas e ao Google Colab</Strong></summary>
 
 - **Conteúdos da Aula:**
-  - Slides
+  - Slide
   - [Exercícios](exercicios/exerciciosAula3.md)
 </details>
 
@@ -49,7 +49,7 @@
 <summary><Strong>Aula 4 - Funções e análise de dados com o Pandas</Strong></summary>
 
 - **Conteúdos da Aula:**
-  - Slides
+  - Slide
   - [Exercícios](exercicios/exerciciosAula4.md)
 </details>
 

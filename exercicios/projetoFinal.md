@@ -14,9 +14,9 @@ empregando Python e bibliotecas como **pandas** e **matplotlib**.
 - Construir um **projeto prático** que poderá ser incluído no portfólio profissional dos alunos.  
 
 ### Metodologia
-- A turma será dividida em **5 equipes**, sendo sorteado um tema para cada uma realizar uma análise específica
+- A turma será dividida em **equipes**, sendo sorteado um tema para cada uma realizar uma análise específica
   com base nos dados do dataset.  
-- Cada equipe terá **30 minutos** para apresentar os resultados da análise, incluindo uma breve explicação
+- Cada equipe terá até **20 minutos** para apresentar os resultados da análise, incluindo uma breve explicação
   da lógica utilizada no código.  
 - Após a apresentação, os demais alunos poderão fazer perguntas e discutir pontos relevantes do projeto.
 
