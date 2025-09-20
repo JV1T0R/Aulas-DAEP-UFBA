@@ -33,7 +33,7 @@
 <summary><Strong>Aula 2 - Primeiros passos com a linguagem</Strong></summary>
 
 - **Conteúdos da Aula:**
-  - Slide
+  - [Slide](slides/Slide_Aula%20_2.pdf)
   - [Exercícios](exercicios/exerciciosAula2.md)
 </details>
 
