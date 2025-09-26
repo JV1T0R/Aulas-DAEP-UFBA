@@ -25,7 +25,7 @@
 <summary><Strong>Aula 1 - Fundamentos e ambiente de desenvolvimento</Strong></summary>
 
 - **Conteúdos da Aula:**
-  - [Slide](slides/Slide_Aula_1.pdf)
+  - [Slide](slides/SlideAula1.pdf)
   - [Exercícios](exercicios/exerciciosAula1.md)
 </details>
 
@@ -33,7 +33,7 @@
 <summary><Strong>Aula 2 - Primeiros passos com a linguagem</Strong></summary>
 
 - **Conteúdos da Aula:**
-  - [Slide](slides/Slide_Aula_2.pdf)
+  - [Slide](slides/SlideAula2.pdf)
   - [Exercícios](exercicios/exerciciosAula2.md)
 </details>
 
@@ -41,7 +41,7 @@
 <summary><Strong>Aula 3 - Estruturas de dados, manipulação de informações, introdução a bibliotecas e ao Google Colab</Strong></summary>
 
 - **Conteúdos da Aula:**
-  - [Slide](slides\Slide_Aula_3.pdf)
+  - [Slide](slides\SlideAula3.pdf)
   - [Exercícios](exercicios/exerciciosAula3.md)
 </details>
 
