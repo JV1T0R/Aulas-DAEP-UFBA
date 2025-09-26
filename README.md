@@ -41,7 +41,7 @@
 <summary><Strong>Aula 3 - Estruturas de dados, manipulação de informações, introdução a bibliotecas e ao Google Colab</Strong></summary>
 
 - **Conteúdos da Aula:**
-  - [Slide](slides\SlideAula3.pdf)
+  - [Slide](slides/SlideAula3.pdf)
   - [Exercícios](exercicios/exerciciosAula3.md)
 </details>
 
