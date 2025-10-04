@@ -49,7 +49,7 @@
 <summary><Strong>Aula 4 - Funções e análise de dados com o Pandas</Strong></summary>
 
 - **Conteúdos da Aula:**
-  - Slide
+  - [Slide](slides/SlideAula4.pdf)
   - [Exercícios](exercicios/exerciciosAula4.md)
 </details>
 
