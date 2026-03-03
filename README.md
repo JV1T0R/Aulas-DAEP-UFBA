@@ -11,8 +11,7 @@
 
 > ### Informações:  
 > **Instituição:** Escola Politécnica da UFBA  
-> **Instrutor:** João Vítor Pamponet Esteves  
-> **Período:** 13/09/2025 a 11/10/2025  
+> **Instrutor:** João Vítor Pamponet Esteves   
 > **Carga Horária:** 20 horas  
 > ### Objetivo:  
 > Proporcionar aos alunos uma introdução acessível à programação em Python,  
