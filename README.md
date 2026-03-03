@@ -66,22 +66,7 @@
 <details>
 <summary><Strong>Ementa</Strong></summary>
 
-- [Ementa do Curso](documentos/Ementa_Curso_de_Extensão_Python_para_Engenheiros.pdf)
-</details>
-
-<details>
-<summary><Strong>Bibliografia</Strong></summary>
-
-- **Livros:**
-  - **DOWNEY, A.** *Think Python: How to Think Like a Computer Scientist*. O’Reilly, 2024.  
-  - **MCKINNEY, W.** *Python for Data Analysis*. O’Reilly, 3ª ed, 2023.
-
-- **Artigos**
-  - **FELDER & SILVERMAN.** Learning and Teaching Styles in Engineering Education, 2002.
-
-- **Institucional**
-  - **USP**. Apostilas de Engenharia de Produção.  
-  - **TU Delft**. Python for Engineers.
+- [Ementa do Curso](documentos/Ementa.pdf)
 </details>
 
 <details>
