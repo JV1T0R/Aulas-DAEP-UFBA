@@ -29,12 +29,13 @@ Ele é ideal para estudos de análise de dados aplicados à **Engenharia de Prod
 
 ### Temas das Análises
 Cada equipe receberá, por sorteio, um dos temas abaixo para desenvolver sua análise:
-
 - **Produção Total e Eficiência:** análise da quantidade de peças produzidas por produto, turno e máquina.  
-- **Controle de Qualidade:** investigação dos defeitos, taxa de refugo e impacto na produção.  
-- **Custos de Produção:** avaliação dos custos de material, mão de obra e consumo de energia.  
+- **Controle de Qualidade:** investigação dos defeitos, taxa de refugo e impacto na produção.   
 - **Desempenho Operacional:** análise do tempo de produção, manutenção, períodos de parada e reprocessos.  
 - **Condições Ambientais:** estudo da influência da temperatura e umidade sobre a qualidade e o volume produzido.
+
+>**Projeto de Exemplo**  
+>As equipes poderão utilizar como base para estrutura, documentação e organização o projeto sobre [**Análise de Custos de Produção**](https://github.com/JV1T0R/DAEP-Projeto-Final).
 
 ### Requisitos do Projeto
 - O código deverá ser desenvolvido em **Python**, utilizando obrigatoriamente as bibliotecas **Pandas** e **Matplotlib**.  
